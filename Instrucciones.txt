@@ -1,0 +1,7 @@
+Package           Version
+----------------- -------
+pip               24.0
+python-nmap       0.7.1
+python3-nmap      1.6.0
+
+Para poder ejecutar el código se necesita que en la computadora que va a escanear este conectada a la red con la computadora a la que se le va a hacer el escaneo. Entonces necesitaremos la dirección IP de la computadora a escanear y también saber los argumentos que pertenezcan a nmap y queramos utilizar y tambien conocer los puertos a los que vamos a escanear.
